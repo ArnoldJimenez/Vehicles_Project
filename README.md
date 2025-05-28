@@ -9,3 +9,4 @@ Esta es una aplicación web desarrollada con Streamlit para visualizar datos de 
 
 ## Cómo ejecutar
 1. Activa el entorno virtual:
+2. Ejecuta la aplicación:
